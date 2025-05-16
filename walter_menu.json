@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Walter doručak",
+    "description": "2 pečena jaja, ćevapi 50g, sudžuka 60g, paradajz sa feta sirom, pomfrit 100g, somun"
+  },
+  {
+    "name": "Punjene slane prženice",
+    "description": "Somun, jaje, goveđa pršuta, feta sir, paradajz, pavlaka"
+  },
+  {
+    "name": "Tuna sendvič  POSNO",
+    "description": "Tost 3kom, tunjevina 60g, luk, senf, majonez, paradajz, kupus, salata, pomfrit 100g"
+  },
+  {
+    "name": "Slatke prženice",
+    "description": "Somun, jaja, džem od kajsije, slatki sos od jogurta, cimet"
+  },
+  {
+    "name": "Kajgana sa goveđom pečenicom i sirom",
+    "description": "3 jaja, pršuta, kačkavalj , paradajz, somun, kisela pavlaka"
+  },
+  {
+    "name": "Kajgana sa povrćem",
+    "description": "3 jaja, luk, paprika, kukuruz, paradajz, somun, kisela pavlaka"
+  },
+  {
+    "name": "Popara",
+    "description": "Somun 150g, mleko, kisela pavlaka, kajmak, feta sir, tucana paprika"
+  },
+  {
+    "name": "Pljeskavica",
+    "description": "Juneće meso sa crnim lukom 230g, somun"
+  },
+  {
+    "name": "Gurmanska pljeskavica",
+    "description": "Juneće meso sa crnim lukom, tucanom paprikom, goveđom pršutom i kačkavaljem 300g, somun"
+  },
+  {
+    "name": "Sudžuka – mala porcija/velika porcija",
+    "description": "Kobasica od fino mlevenog junećeg mesa 125g/250g, luk, senf, somun"
+  },
+  {
+    "name": "Kobasica sa sirom",
+    "description": "Kobasica od fino mlevenog junećeg mesa sa kačkavaljem 250g, somun, luk, senf-med sos"
+  },
+  {
+    "name": "Pileći file",
+    "description": "Marinirano pileće meso 250g, senf, somun"
+  },
+  {
+    "name": "Vege ćevapi",
+    "description": "Veganski ćevapi od soje 150g, vege urnebes, luk, somun"
+  },
+  {
+    "name": "Pileće krpice",
+    "description": "Trakice pilećeg filea 250g poslužene u ½ domaćeg somuna 150g"
+  },
+  {
+    "name": "Pikantni uštipci",
+    "description": "Juneće meso 250g začinjeno crnim i belim lukom, ljutom paprikom"
+  },
+  {
+    "name": "Teleće krpice",
+    "description": "Trakice telećeg mesa 250g poslužene u ½ domaćeg somuna 150g"
+  },
+  {
+    "name": "Biftek krpice u maslinovom ulju",
+    "description": "Juneći biftek 250g, sos od maslinovog ulja, senf-med sos, somun"
+  },
+  {
+    "name": "5 Cewapa u kajmak sosu",
+    "description": "Tradicionalni ćevapi od čistog junećeg mesa 125g, sos od kajmaka, slatka mlevena paprika, somun, luk"
+  },
+  {
+    "name": "10 Cewapa u kajmak sosu",
+    "description": "Tradicionalni ćevapi od čistog junećeg mesa 250g, sos od kajmaka, slatka mlevena paprika, somun, luk"
+  },
+  {
+    "name": "Pileće krpice u kajmak sosu",
+    "description": "Marinirana piletina 250g, sos od kajmaka, rendani kačkavalj, somun, tucana paprika"
+  },
+  {
+    "name": "Pikantni uštipci na kajmaku",
+    "description": "Juneće meso začinjeno crnim i belim lukom 250g, sos od kajmaka, rendani kačkavalj, tucana paprika, somun"
+  },
+  {
+    "name": "Teleće krpice u kajmak sosu",
+    "description": "Marinirana teletina 250g, sos od kajmaka, rendani kačkavalj, somun, tucana paprika"
+  },
+  {
+    "name": "Šareni ražnjići",
+    "description": "Ražnjić od ramsteka 125g i dimljene piletine 125g, domaćinski krompir 100g, senf-med sos, luk, somun"
+  },
+  {
+    "name": "Teleća džigerica",
+    "description": "Teleća džigerica 250g, domaćinski krompir 100g, marinada od belog luka, kajmak sos, somun"
+  },
+  {
+    "name": "Ramstek",
+    "description": "Marinirano juneće meso 250g, domaćinski krompir 100g, senf-med sos, kajmak sos, somun"
+  },
+  {
+    "name": "Biftek",
+    "description": "Juneće meso 250g posluženo sa domaćinskim krompirom 100g i ½ domaćeg somuna 150g"
+  },
+  {
+    "name": "Dimljeni file pastrmke",
+    "description": "Dimljeni file pastrmke 200g, poslužen sa domaćinskim krompirom 100g, kolutovima luka 2 kom., marinada"
+  },
+  {
+    "name": "File lososa",
+    "description": "Stek od lososa 200g, domaćinski krompir 100g, senf-med sos, marinada, somun"
+  },
+  {
+    "name": "Cewapi 5 komada 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Pileći file 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Šareni ražnjić 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Teleće krpice 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Sudžuka 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Kobasica sa sirom 125g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Pikantni uštipci 150g",
+    "description": "Šopska salata, domaćinski krompir 100g, luk, kajmak, ajvar, somun"
+  },
+  {
+    "name": "Cewapi 5 komada 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Pileći file 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Šareni ražnjić 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Teleće krpice 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Sudžuk 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Kobasica sa sirom 125g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Pikantni uštipci 150g",
+    "description": "Vitaminska salata sa čerijem, krastavcem i šargarepom, pomfrit 100g, kukuruz, senf-med sos, domaći ajvar, somun"
+  },
+  {
+    "name": "Pomfrit",
+    "description": "100g / 200g"
+  },
+  {
+    "name": "Domaćinski krompir",
+    "description": "200g"
+  },
+  {
+    "name": "Hrskavi kolutovi luka",
+    "description": "200g"
+  },
+  {
+    "name": "Pikantni somun sa kajmakom 370g",
+    "description": "370g"
+  },
+  {
+    "name": "Somun",
+    "description": "300g"
+  },
+  {
+    "name": "Cewap salata",
+    "description": "Miks salata 100g, pečena paprika, ljubičasti luk, feta sir 60g, ćevapi 100g, krem sos od kajmaka, tucana paprika, somun"
+  },
+  {
+    "name": "Salata sa piletinom",
+    "description": "Miks salata 100g, šargarepa, kukuruz, čeri paradajz, krastavac, pileći file 125g, senf-med sos, somun"
+  },
+  {
+    "name": "Salata sa tunjevinom",
+    "description": "Miks salata 100g, šargarepa, kukuruz, čeri paradajz, krastavac, tunjevina 110g, majonez-mirođijom sos, somun"
+  },
+  {
+    "name": "Walter salata",
+    "description": "Miks salata 100g, šargarepa, kukuruz, čeri paradajz, krastavac, ramstek 125g, aceto balsamico sos sa medom, somun"
+  },
+  {
+    "name": "Vege Cewapi salata",
+    "description": "Mix salata 100g, pečena paprika, šargarepa, kukuruz, ljubičasti luk, vege ćevapi 90g, vege sir 60g, majonez-mirođija sos, somun"
+  },
+  {
+    "name": "Kupus salata",
+    "description": "200g"
+  },
+  {
+    "name": "Paradajz salata",
+    "description": "200g"
+  },
+  {
+    "name": "Paradajz sa sirom",
+    "description": "250g"
+  },
+  {
+    "name": "Krastavac salata",
+    "description": "200g"
+  },
+  {
+    "name": "Krastavac sa sirom",
+    "description": "250g"
+  },
+  {
+    "name": "Zelena salata",
+    "description": "150g"
+  },
+  {
+    "name": "Srpska salata",
+    "description": "Seckani paradajz, krastavac, luk i ljuta paprika 250g"
+  },
+  {
+    "name": "Šopska salata",
+    "description": "Paradajz, paprika, krastavac, luk, feta sir 300g"
+  },
+  {
+    "name": "Bašta salata",
+    "description": "Kupus, paradajz, krastavac, ljuta paprika, ljubičasti luk, 300g"
+  },
+  {
+    "name": "Vitaminska salata",
+    "description": "Mix salata, kupus, šargarepa, čeri paradajz, krastavac, kukuruz 250g"
+  },
+  {
+    "name": "Pečena ljuta papričica",
+    "description": ""
+  },
+  {
+    "name": "Pečena paprika – sezonski",
+    "description": "250g"
+  },
+  {
+    "name": "Kiseli kupus – sezonski",
+    "description": "250g"
+  },
+  {
+    "name": "Tufahija",
+    "description": "Jabuka punjena sa orasima"
+  },
+  {
+    "name": "Baklava",
+    "description": "Kolač od tankih kora sa nadevom od oraha, natopljen slatkim sirupom"
+  },
+  {
+    "name": "Tres Leches",
+    "description": "Kolač natopljen sosom od mleka i karamel prelivom"
+  },
+  {
+    "name": "Urmašica",
+    "description": "Kolač od testa natopljen slatkim sirupom"
+  },
+  {
+    "name": "Cheese cake",
+    "description": "Kolač od mrvljenog keksa, kremasti nadev od sira, preliv od maline"
+  },
+  {
+    "name": "Sutlijaš",
+    "description": ""
+  },
+  {
+    "name": "Tulumba",
+    "description": ""
+  },
+  {
+    "name": "Domaće palačinke",
+    "description": "Džem / krem sa mlevenim keksom"
+  }
+]
